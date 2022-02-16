@@ -1,4 +1,3 @@
-                                                                  # Hi there, I'm Ngọc Phú 👋 
-
-                                                                  ## I'm studying at HUFLIT
+# Hi there, I'm Ngọc Phú 👋 
+## I'm studying at HUFLIT
 
