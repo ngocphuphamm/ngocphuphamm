@@ -24,6 +24,6 @@
 
 
 ## 📊 My Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphuphammm&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphuphamm&theme=tokyonight)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
