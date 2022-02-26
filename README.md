@@ -5,7 +5,7 @@
 
 
 <p align="left"> 
-    <h1 align="center" ><img src="https://img.icons8.com/color/48/000000/nodejs.png" </h1>
+    <h1 align="center" ><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" alt="react-sidebar-ui examples - CodeSandbox" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 99.1716px; height: 100px; margin: 0px;"></h1>
    
 </p>
 
