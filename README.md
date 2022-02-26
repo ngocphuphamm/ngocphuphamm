@@ -5,7 +5,7 @@
 
 
 <p align="left"> 
-    <h1> width="30px"><img src="https://img.icons8.com/color/48/000000/nodejs.png" </h1>
+    <h1><img src="https://img.icons8.com/color/48/000000/nodejs.png" </h1>
    
 </p>
 
