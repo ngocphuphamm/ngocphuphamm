@@ -4,12 +4,12 @@
 <h3 align="center">I'm studying at HUFLIT</h3>
 
 
-<p align="left"> 
-  <h1 style = "text-align: center;">
+<p align="center"> 
+  
       <img   src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" alt="react-sidebar-ui examples - CodeSandbox" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px; "> 
 
 
-  </h1>
+ 
 
 </p>
 
