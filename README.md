@@ -6,7 +6,7 @@
 
 <p align="left"> 
   <div>
-        <img   src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" alt="react-sidebar-ui examples - CodeSandbox" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px; align : center; ">
+        <img   src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" alt="react-sidebar-ui examples - CodeSandbox" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px; text-align : center; ">
 
 
   </div>
