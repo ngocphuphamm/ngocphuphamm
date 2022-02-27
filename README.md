@@ -6,6 +6,7 @@
 
 <p align="center"> 
         <img   src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" alt="react-sidebar-ui examples - CodeSandbox" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px; ">
+        <img src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=6c09b952557hdq7b1ce4sdo6jhczyu8u72k7nnjer1zx893i&amp;rid=giphy.gif&amp;ct=s" alt="Pink Crypto Sticker for iOS &amp;amp; Android | GIPHY" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px;">
 </p>
 
 
