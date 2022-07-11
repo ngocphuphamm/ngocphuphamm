@@ -1,7 +1,6 @@
 
 
-<!-- <h1 style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"><img width="10%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="10px"/></h1> -->
-￼	ngocphuphamm
+<h1 style=" display: block;margin-left: auto;margin-right: auto;width: 50%;"><img width="10%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="10px"/></h1> 
 
 
 <h1 align="center">Hi .I'am Ngoc Phu</h1>
