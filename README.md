@@ -3,5 +3,5 @@
 <h3 align="center">I'm studying at HUFLIT</h3>
 
 <br/>
-<hr/>
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocphuphamm)](https://github.com/ngocphuphamm)
