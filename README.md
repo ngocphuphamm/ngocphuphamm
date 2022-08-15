@@ -1,2 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ngoc Phu</h1>
-<h3 align="center">I'm studying major Software Engineer at HUFLIT</h3>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">, I'm Ngoc Phu</p>
+**Overview**
+
+<a href="https://www.linkedin.com/in/ph%C3%BA-ph%E1%BA%A1m-ng%E1%BB%8Dc-778a7221a/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/ngocphuphamm/">
+  <img align="left" alt=" Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.facebook.com/pham.nphu.3/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv">
+
+
+<br/>
+<br/>
+
+- 🔭 I’m currently learning Sofware Engineer at HUFLIT
+- 🌱 I’m currently reasearching Ethereum
+- 👯 I like code everyday
+- 🤔 I am passionate about high technology
+
+
+##### Languages most used
+
+![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
+
+
+#### I have used
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![Mongo](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=Mongodb)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+![Hardhat](https://img.shields.io/badge/-Hardhat-000000?style=flat&logo=Hardhat)
+<br/>
+
+<img align="center" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api?username=ngocphuphamm&show_icons=true&theme=radical" />
+
