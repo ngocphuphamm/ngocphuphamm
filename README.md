@@ -11,7 +11,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b966a044e887df3e486be04ef582ab85ba7a2251a27a88199d91e09d0c7b5692/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55717856526d3149616149476b2f67697068792e676966">
 
 
 <br/>
