@@ -18,15 +18,8 @@
 <br/>
 
 - 🔭 I’m currently learning Sofware Engineer at HUFLIT
-- 🌱 I’m currently reasearching Ethereum
-- 👯 I like code everyday
+- 👯 I like coding everyday
 - 🤔 I am passionate about high technology
-
-
-##### Languages most used
-
-![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
 
 
 #### I have used
@@ -38,7 +31,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
-![Hardhat](https://img.shields.io/badge/-Hardhat-000000?style=flat&logo=Hardhat)
+![ASP.NET-MVC](https://img.shields.io/badge/ASP.NET--MVC-black)
 <br/>
 
 <img align="center" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api?username=ngocphuphamm&show_icons=true&theme=radical" />
