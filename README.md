@@ -27,7 +27,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
 
 
 #### I have used
