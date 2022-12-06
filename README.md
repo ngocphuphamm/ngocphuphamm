@@ -21,7 +21,7 @@
 - 👯 I like coding everyday
 - 🤔 I am passionate about high technology
 
-### Most Used Language
+### Most used language
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
