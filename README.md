@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently learning Sofware Engineer at HUFLIT
 - 👯 I like coding everyday
-- 🤔 I am passionate about high technology
+- 🤔 I'm passionate and learning about blockchain
 
 ### Most used language
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
