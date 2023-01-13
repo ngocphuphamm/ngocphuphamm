@@ -36,5 +36,4 @@
 ![ASP.NET-MVC](https://img.shields.io/badge/ASP.NET--MVC-black)
 <br/>
 
-<img align="center" alt="Coding" width="450" src="https://github-readme-stats.vercel.app/api?username=ngocphuphamm&show_icons=true&theme=radical" />
 
