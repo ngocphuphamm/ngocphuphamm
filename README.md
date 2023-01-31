@@ -19,16 +19,18 @@
 - 👯 I like coding everyday
 - 🤔 I'm passionate and learning about blockchain
 
-### Most used language
+### Used language
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 #### I have used
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![Mongo](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=Mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs)
