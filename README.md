@@ -15,27 +15,20 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently learning Sofware Engineer at HUFLIT
-- 👯 I like coding everyday
-- 🤔 I'm passionate and learning about blockchain
-
-### Used language
-![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=Solidity)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+- Now I'm Back-End Developer.
+- I have always focused on designing high-performance software architecture.
+- In particular, I am passionate about programming and system design.
 
 #### I have used
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![Mongo](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=Mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
-![ASP.NET-MVC](https://img.shields.io/badge/ASP.NET--MVC-black)
+![K8S](https://img.shields.io/badge/-K8S-000000?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
+
 <br/>
 
 
