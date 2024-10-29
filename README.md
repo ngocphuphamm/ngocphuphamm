@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/ph%C3%BA-ph%E1%BA%A1m-ng%E1%BB%8Dc-778a7221a/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/ngocphuphamm/">
-  <img align="left" alt=" Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
-</a>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b966a044e887df3e486be04ef582ab85ba7a2251a27a88199d91e09d0c7b5692/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55717856526d3149616149476b2f67697068792e676966">
